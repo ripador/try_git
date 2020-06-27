@@ -1,5 +1,5 @@
-# Test 1
-This is the frist git test
+# Git repo testing
+Do not try this at home, or better... Yes do it
 
 ## Line 2
 
